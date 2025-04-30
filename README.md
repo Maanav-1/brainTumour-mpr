@@ -1,3 +1,5 @@
+Brain-Tumour-Detection:
+
 sem 8 mini project
 
 3 models : vgg16, resnet50, and our custom Sequential cnn model detect brain tumour from the scans uploaded and classifies them in the following categories: [meningioma, pituatary, glioma and no tumour]

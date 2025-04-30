@@ -19,7 +19,7 @@ app.add_middleware(
 )
 
 # Set your Google AI API Key
-GOOGLE_API_KEY = "AIzaSyAizjb5_Sz09rB6pJaK0jfc5P9ZFDCLIyI"
+GOOGLE_API_KEY = "put your API KEY"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Load Gemini model
